@@ -2,67 +2,49 @@
 
 ### AWS DevOps Engineer | Cloud Security | DevSecOps
 
-I'm a **Cloud Technology & Information Security** student focused on building secure, automated, and scalable cloud infrastructure.
+Cloud Technology & Information Security student focused on **AWS, DevOps, cloud infrastructure, automation, and security**.
 
-I work with **AWS, Linux, Python, DevOps, Cloud Security, Infrastructure as Code, and CI/CD**, while building practical projects to strengthen my engineering skills.
-
----
-
-## 🚀 What I Work On
-
-* ☁️ AWS Cloud Infrastructure
-* ⚙️ DevOps & CI/CD
-* 🔐 Cloud Security & DevSecOps
-* 🏗️ Infrastructure as Code
-* 🐧 Linux & Systems
-* 🐍 Python & Automation
-* 📦 Docker & Kubernetes
-* 🧠 Data Structures & Algorithms
+I build practical projects to understand how systems are **designed, deployed, automated, monitored, and secured**.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies
 
 <p align="left">
 
-<a href="https://aws.amazon.com/">
-<img src="https://skillicons.dev/icons?i=aws" width="45" height="45" alt="AWS"/>
-</a>
-<a href="https://www.python.org/">
-<img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python"/>
-</a>
-<a href="https://www.linux.org/">
-<img src="https://skillicons.dev/icons?i=linux" width="45" height="45" alt="Linux"/>
-</a>
-<a href="https://www.docker.com/">
-<img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="Docker"/>
-</a>
-<a href="https://kubernetes.io/">
-<img src="https://skillicons.dev/icons?i=kubernetes" width="45" height="45" alt="Kubernetes"/>
-</a>
-<a href="https://www.terraform.io/">
-<img src="https://skillicons.dev/icons?i=terraform" width="45" height="45" alt="Terraform"/>
-</a>
-<a href="https://git-scm.com/">
-<img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git"/>
-</a>
-<a href="https://github.com/">
-<img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub"/>
-</a>
-<a href="https://www.jenkins.io/">
-<img src="https://skillicons.dev/icons?i=jenkins" width="45" height="45" alt="Jenkins"/>
-</a>
-<a href="https://www.gnu.org/software/bash/">
-<img src="https://skillicons.dev/icons?i=bash" width="45" height="45" alt="Bash"/>
-</a>
+<img src="https://skillicons.dev/icons?i=aws,python,linux,docker,kubernetes,terraform,git,github,jenkins,bash" height="45" alt="AWS Python Linux Docker Kubernetes Terraform Git GitHub Jenkins Bash"/>
 
 </p>
 
+**Cloud:** AWS
+**DevOps:** Git, GitHub, Jenkins, CI/CD
+**Infrastructure:** Terraform
+**Containers:** Docker, Kubernetes
+**Programming:** Python, C
+**Systems:** Linux, Bash
+**Security:** Cloud Security, DevSecOps, Security Automation
+
 ---
 
-## 📌 Projects
+## 🚀 Featured Project
 
-I've built **8+ hands-on projects** across:
+### ☁️ CloudCart — AWS 3-Tier Architecture
+
+A production-style e-commerce application deployed on AWS using a three-tier architecture.
+
+**AWS:** EC2 • ALB • RDS • S3 • VPC
+**Backend:** FastAPI • Python
+**Web:** Nginx
+**Database:** MySQL
+**OS:** Amazon Linux
+
+> Designed and deployed to understand real-world cloud architecture, networking, application deployment, and infrastructure security.
+
+---
+
+## 📂 Projects
+
+I've built **8+ hands-on projects** covering:
 
 * AWS Cloud Architecture
 * Three-Tier Applications
@@ -72,7 +54,7 @@ I've built **8+ hands-on projects** across:
 * Monitoring & Observability
 * Python Automation
 
-Explore my repositories to see my projects and technical work.
+Explore my repositories for implementation details and documentation.
 
 ---
 
@@ -91,19 +73,19 @@ Currently strengthening:
 
 ---
 
-## 📈 Learning Philosophy
+## 🧠 Engineering Philosophy
 
 > **Learn. Build. Secure. Improve.**
 
-I believe the best way to learn engineering is to understand the fundamentals, build real systems, break them, secure them, and improve them.
+I focus on understanding fundamentals, building real systems, and continuously improving how they are **automated, deployed, and secured**.
 
 ---
 
 ## 📫 Connect
 
-* GitHub: [@nexqor](https://github.com/nexqor)
-* LinkedIn: [Manish Kumar](https://www.linkedin.com/)
+**GitHub:** [@nexqor](https://github.com/nexqor)
+**LinkedIn:** [Manish Kumar](https://www.linkedin.com/)
 
 ---
 
-⭐ **Explore my repositories and follow my journey from cloud engineering to secure systems and beyond.**
+⭐ **Explore my repositories and follow my engineering journey.**
