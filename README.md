@@ -1,11 +1,11 @@
 
 # Hi, I'm Manish Kumar 👋
 
-### Cloud Technology | Information Security | DevOps
+### Cloud Computing | Information Security | DevOps
 
 🎓 **B.Tech — Cloud Technology & Information Security**
 
-I'm passionate about cloud computing, DevOps automation, and cybersecurity. I enjoy learning by building practical projects.
+I'm passionate about cloud computing, DevOps automation, and cybersecurity. I enjoy building practical projects and learning new technologies.
 
 ### 🛠️ Tech Stack
 
@@ -18,6 +18,10 @@ I'm passionate about cloud computing, DevOps automation, and cybersecurity. I en
 - 🐍 Python Automation
 - 🐧 Linux & System Administration
 - 🔐 Cloud Security & DevSecOps
+
+### 🚀 Projects
+
+Explore my repositories to see my hands-on projects in cloud computing, DevOps, automation, and security.
 
 ### 🎯 Goal
 
