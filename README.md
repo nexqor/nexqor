@@ -1,11 +1,10 @@
-
 # Hi, I'm Manish Kumar 👋
 
-### Cloud Computing | Information Security | DevOps
+### Aspiring Cloud Security Engineer | DevSecOps
 
-🎓 **B.Tech — Cloud Technology & Information Security**
+🎓 B.Tech — Cloud Technology & Information Security
 
-I'm passionate about cloud computing, DevOps automation, and cybersecurity. I enjoy building practical projects and learning new technologies.
+Passionate about cloud security, infrastructure protection, DevOps automation, and open-source security projects.
 
 ### 🛠️ Tech Stack
 
@@ -13,18 +12,19 @@ I'm passionate about cloud computing, DevOps automation, and cybersecurity. I en
   <img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,jenkins,docker,kubernetes,terraform" alt="Tech Stack"/>
 </p>
 
-- ⚙️ DevOps & CI/CD
-- 🏗️ Infrastructure as Code
-- 🐍 Python Automation
-- 🐧 Linux & System Administration
-- 🔐 Cloud Security & DevSecOps
-
-### 🚀 Projects
-
-Explore my repositories to see my hands-on projects in cloud computing, DevOps, automation, and security.
+- ☁️ Multi-Cloud Security
+- 🔐 IAM & Threat Detection
+- ⚙️ DevOps & DevSecOps
+- 🏗️ Terraform & Infrastructure as Code
+- 🌐 Open-Source Security Tools
 
 ### 🎯 Goal
 
-Building secure, automated, and reliable cloud systems.
+Building secure and resilient cloud environments across AWS, Azure, and GCP.
 
-**Learn. Build. Secure. Improve.**
+### 📫 Connect
+
+- GitHub: [@nexqor](https://github.com/nexqor)
+- LinkedIn: [Manish Kumar](https://www.linkedin.com/in/manish-kumar-b915042a6/)
+
+**Learn. Build. Secure.** 🚀
